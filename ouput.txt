@@ -1,0 +1,368 @@
+[
+
+"Over 13 years of experience in the field of IT with emphasis on complete application life cycle. Primary responsibilities for current role are Architect, Design, Analysis, Develop and Delivery of Software functionalities and well versed with software methodologies like Agile Scrum, Waterfall",
+
+"4 years of experience web application Architect /Lead, specializing in JavaScript MVC, Flex frameworks development, touch - enabled web applications, and full-stack development with the Angular, React, Express, Hapi, and Swagger.",
+
+"9 years of experience in project implementation using Java/J2EE technologies (Java, Groovy/ Grails, JDBC, J2EE, spring framework, Grails, Bootstrap, HTML, Maven, Log4J, slf4j, Jenkins, Ajax, JSON) with various middleware technologies.",
+
+"Familiarity with automated builds, deployment, and continuous integration strategies; NPM, Bower, and Grunt; Source control with GIT hub, Source tree, Web pack, ePaaS/XLR, Jenkins.",
+
+"Adept with cross-browser testing, graceful degradation, and responsive design techniques to deliver reliable, device-appropriate experiences across platforms.",
+
+"Design and implement the secure REST APIs using node.js, Hapi, Express, Swagger, Mongoose and Mongo DB, LDAP/SSO authentication and authorization.",
+
+"Experienced with NoSQL database designing and managing Mongo DB collections, constructing data models with mongoose, validation, subdocument population, query building.",
+
+"Worked on Cascading Style Sheets and HTML pages to display static data content",
+
+"Experienced in developing React JS Components, Actions, Store and Dispatchers on node.js.",
+
+"Extensive experience in developing Java, J2EE and Springs Framework",
+
+"Experienced in working with SOAP and Restful Web Services.",
+
+"Hands-on experienced with various Application servers and Web servers (IBM Web Sphere Application Server, BEA Web Logic, and Tomcat) with wide variety of development tools like IBM WSAD/ RAD, Eclipse.",
+
+"1 year of experience with Big Data and Hadoop File System (HDFS).",
+
+"Experienced in working with the NoSQL H-Base, Mongo DB,",
+
+"Hands on experience on major components in Hadoop Ecosystem like Map Reduce, HDFS, H-Base",
+
+"Strong knowledge in developing Web Services that included developing WSDL that included document/literal and SOAP Bindings.",
+
+"Designed and coded application components in an agile environment utilizing a test-driven development approach.",
+
+"Proficient in software architecture, design and development of scalable, high performance client/server, distributed, message oriented, batch processing and desktop applications.",
+
+"Strong skills in API design, Enterprise Application Integration, Database design, knowledge of various architecture, design, integration patterns and application frameworks development.",
+
+"Experienced in AGILE (SCRUM) and Waterfall SDLC methodologies.",
+
+"Resourceful in the completion of projects with ability to multitask and meet deadlines.",
+
+"Experienced in software testing: endurance, performance and regression testing using J-Meter",
+
+"Description: Journey is a web-based work flow application. It allows user to create, delete, save and deploy the journey. User can view and define properties of components. ",
+
+"Architecting, designing and developing the application using React framework ",
+
+"Using Agile project methodology and delivering the accepted features in each sprint ",
+
+"Testing Single Page Application using React, Redux, Node JS, CSS frameworks like Bootstrap, Material UI ",
+
+"Designing and developing the logging framework, resource loading based on the environment, token based authentication for Rest APIs ",
+
+"Unit testing of Rest APIs using JUnit. Using Jest and Protractor for front end testing. ",
+
+"Using GIT and Source tree to clone, push, merge and pull activities ",
+
+"Using Stash for code repository and Confluence for wiki and technical interactions ",
+
+"Using Rally to log and track the user stories, tasks and estimations ",
+
+"Using Jenkins and XLR for CI & CD to build and deploy the changes on BDE/eCP environment ",
+
+"Description: GPD/NPD is a front-end user interface designed to make changes to the tables in the AVS Production System. Designated tech Ops personnel make additions, modifications and deletions based on requests from client operations ",
+
+"Architected/designed and developed the application using Angular JS 1.6 framework",
+
+"Developed Single Page Application using Angular framework and Bootstrap",
+
+"Integrated with Backend/Rest APIs using $http service",
+
+"Responsible for maintaining our local and remote repositories, resolving merge conflicts and overall version control for the build and deployment",
+
+"Used Git, Git Hub, Source tree tools to create master, branches, fork, clone, push and pull activities",
+
+"Used Bit Bucket for code repository and Confluence for wiki and technical interactions ",
+
+"Used JIRA to log and track the user stories, tasks and estimations",
+
+"Used Bamboo to build and deploy the changes on Linux environment",
+
+"Description: CT Global Premium Servicing Tool is an application which will help the RM's and the ARM's to store and view the information about the card members which hold Centurion Card Members. ",
+
+"Architected/designed and developed the application using Hapi and React frameworks",
+
+"Architected/designed and developed REST APIs built on Node.js, Hapi.",
+
+"Designed and developed the logging framework, resource loading based on the environment",
+
+"Developed Single Page Application using React CSS framework like Bootstrap",
+
+"Unit testing of APIs using Chai, Mocha",
+
+"Responsible for maintaining our local and remote repositories, resolving merge conflicts and overall version control for the build and deployment",
+
+"Used Git, Git Hub, Source tree tools to create master, branches, fork, clone, push and pull activities",
+
+"Used Bit Bucket for code repository and Confluence for wiki and technical interactions ",
+
+"Used JIRA to log and track the user stories, tasks and estimations",
+
+"Used XLR to build and deploy the changes on ePaaS environment",
+
+"Description: Central Asset Registry (central) provides the functionality and processes for maintaining a complete inventory of all applications and manages related metadata information. Central Asset Registry is the certified system of record for the universe of American Express applications and information regarding those applications. ",
+
+"Worked in Agile project methodology and delivering the accepted functionality in each sprint",
+
+"Architected and developed an application using M.E.A.N (MongoDB, Express, AngularJS and Node JS)",
+
+"Architected/designed, implemented schema in YMAL for Rest APIs using Swagger",
+
+"Architected/designed and developed APIs using Express, Node JS, Swagger Tools and Swagger-Express middleware",
+
+"Designed and developed the token based authentication for Rest APIs",
+
+"Designed and developed the logging framework, resource loading based on the environment",
+
+"Architected/designed and developed the mongo schema using Mongoose",
+
+"Developed Single Page Application using Angular JS, CSS framework like Bootstrap",
+
+"Unit testing of APIs using Chai, Mocha, Super test and same for front end using protractor",
+
+"Responsible for maintaining our local and remote repositories, resolving merge conflicts and overall version control for the build and deployment",
+
+"Used Git, Git Hub, Source tree tools to create master, branches, clone, push and pull activities",
+
+"Used Bit Bucket for code repository and Confluence for wiki and technical interactions ",
+
+"Used JIRA to log and track the user stories, tasks and estimations",
+
+"Description: Network Rules Configuration Tool to help network engineers to generate scripts for create or delete or modify operations. The script will be used to setup pool/rules on BIG-IP F5 traffic manager device. The request comes in two ways. 1. User login to the tool and submit request for network rules configuration. 2. PIT application initiates the request. All requests will come to the Admin Dashboard. User can select the request and filled the necessary details and generate the script to configure on F5 ",
+
+"Worked in Agile project methodology and delivering the accepted functionality in each sprint",
+
+"Implemented Spring MVC framework for the application development",
+
+"Used Spring Mongo Template to interact with Mongo Database",
+
+"Used Restful Web Services to get and post the data and used SOAP UI tool for testing the services ",
+
+"Implemented React JS Components, Actions, Stores and Dispatchers",
+
+"Coded application components using a test-driven approach",
+
+"Identified problems and formulated alternative solutions",
+
+"Worked with project managers and other team members",
+
+"Collaborated with other parts of product development team",
+
+"Maintained project schedules and tasks",
+
+"Set the Node JS and Grunt to build the React JS",
+
+"Used Code Coverage Tools for code review and analysis",
+
+"Used Maven as build tool.",
+
+"Used Subversion as Version control.",
+
+"Used Jenkins as Continuous Integration and Deployment to build, test and deploy the application",
+
+"Description: Platform Inventory Tool to help users to view the hub, web, application server and port details. It allows admin user to add, delete or modify the details. ",
+
+"Implemented MVC framework for the application development",
+
+"Used Restful Web Services to get and post the data and used SOAP UI tool for testing the services ",
+
+"Implemented React JS Components, Actions, Stores and Dispatchers",
+
+"Worked with project managers and other team members",
+
+"Collaborated with other parts of product development team",
+
+"Maintained project schedules and tasks",
+
+"Set the Node JS and Grunt to build the React JS",
+
+"Used Code Coverage Tools for code review and analysis",
+
+"Used Maven as build tool.",
+
+"Used Subversion as Version control.",
+
+"Used Jenkins as Continuous Integration and Deployment to build, test and deploy the application",
+
+"Description: PULSE is a monitoring tool, being used to monitor Confidential MYCA applications. It profiles the complete ecosystem and captures health and welfare information, addressing multiple layers in each of the physical and logical facets of the problem. It provides larger view of the ecosystem including the relationships - container, sibling, aggregation, dependencies etc. between the entities, making it very easy to identify the performance and availability related issues and helps to isolate the problem area. ",
+
+"High-level and low-level system design, planning, estimation and implementation.",
+
+"Designed and Integrated Spring DAO for data access using with Hibernate.",
+
+"Developed and implemented the Spring MVC Architectural Pattern using Spring Framework including JSP, Servlets.",
+
+"Designed and integrated the full-scale Springs/Hibernate persistence solution with the application architectures. ",
+
+"Used Spring ORM to integrate Spring Framework with hibernate ",
+
+"Developed Map Reduce jobs in Java for data cleaning and pre-processing ",
+
+"Enabled speedy reviews and first mover advantages by using Oozie to automate data loading into the Hadoop Distributed File System.",
+
+"Responsible for developing Use case diagrams, Class diagrams, Sequence diagrams and process flow diagrams for the modules using UML and Rational Rose.",
+
+"Involved in Preparation of the technical design documents and involved in identifying and implementation of different J2EE design patterns like Service Locator, Business Delegate, DAO etc.",
+
+"Used Code Coverage Tools for code review and analysis",
+
+"Used Maven as build tool.",
+
+"Used Subversion as Version control.",
+
+"Used Jenkins as Continuous Integration and Deployment to build, test and deploy the application",
+
+"Description: Interactive Excellence is a global team within AXPi that leads the required governance process for all new, public-facing digital assets. Through our review process, i-Excellence provides you with guidance, tools, and the expertise necessary to efficiently launch best-in-class experiences ",
+
+"High-level and low-level system design, planning, estimation and implementation.",
+
+"Designed and integrated the full-scale Struts/Hibernate persistence solution with the application architectures. ",
+
+"Implemented Springs JDBC   and DAO layers to offer abstraction for the business from the database related code (CRUD). ",
+
+"Implemented object/relational persistence (Hibernate) for the domain model",
+
+"Implemented the web services and associated business modules integration",
+
+"Worked on generating the web services classes by using Service Oriented Architecture SOA, WSDL, UDDI and SOAP",
+
+"Developed and implemented the MVC Architectural Pattern using Spring Framework including JSP, Servlets.",
+
+"Responsible for developing Use case diagrams, Class diagrams, Sequence diagrams and process flow diagrams for the modules using UML and Rational Rose.",
+
+"Involved in Preparation of the technical design documents and involved in identifying and implementation of different J2EE design patterns like Service Locator, Business Delegate, DAO etc.",
+
+"Responsible for writing the SFTP functionality to pull the csv files file from tumble weed server.",
+
+"Resolved database inconsistency with better design and efficient SQL queries.",
+
+"Responsibility to do the Code Review and preparing the IQA for other application components.",
+
+"Used Code Coverage Tools for code review and analysis",
+
+"Maven was used as a build tool",
+
+"Description: Simulate is the Tool and Simulate Database where scrubbed production data for various accounts requested by application teams are stored. This database structure is like the MTC database. Application teams can load the data for the required transactions and accounts from the Simulate Repository into E1 or E2 Mid-Tier Cache Database Using Simulate Tool ",
+
+"Involved in all the phases of SDLC including Requirements Collection, Design & Analysis of the Customer Specifications, Development and Customization of the Application.",
+
+"Responsible for development of various GUI Screens using HTML and JSP.",
+
+"Responsible for Coding using JSP, Servlets and Springs",
+
+"Implemented Model View Control (MVC) architecture using Spring MVC Framework",
+
+"Responsible in writing Data Access codes using Spring JDBC template and UDB DB2 database as backend as Model component",
+
+"Responsibility to do the Code Review and preparing the IQA for other application components ",
+
+"Participating in customer meeting to identifying the difficulties if any, and discuss about the application status and get the requirements.",
+
+"Responsible for writing JSPs, DAOs.",
+
+"Responsible for Testing - unit testing & integration testing.",
+
+"Used Code Coverage Tools for code review and analysis",
+
+"Used Maven to build and deploy application on WAS6.",
+
+"Writing code for printing of Report pages in HTML format and Microsoft Excel files",
+
+"Description: MTC provide security compliant data extracted from production environment into the development environment for testing purposes. MTC to avoid the calls to the mainframe for duplicate requests, many mainframe transactions can be avoided. Performance gains, increased availability, and reduced cost can be realized by reducing the mainframe requests for duplicate card member data. Data will be cached by the MYCA application tier to save mainframe calls. This would reduce the usage on the mainframe and produce reengineering saves ",
+
+"Responsible for developing use cases, class and sequence diagram for the modules using UML and Rational Rose",
+
+"Extensively used IBM Rational Application Developer for building, testing, and deploying frame work.",
+
+"Written stored procedures to retrieve, insert and delete the data",
+
+"Developed Framework on WAS for different mod of communications in the service.",
+
+"Used Waterfall methodology to develop software applications. In the database end, responsibilities included creation of tables, triggers, stored procedures, sub-queries, joins, integrity constraints and views.",
+
+"Used Code Coverage Tools for code review and analysis",
+
+"Involved in communicating with offshore team to resolve the applications issues and to deliver the best quality application enhancemnts to the client ",
+
+"Responsible for reviewing and delivering the modules to client and managing the source code",
+
+"Description: Project involves Code analysis and collection of all information related to Risk Demographics Application required by the Development and Support teams. It addresses various areas like functional details, application flow, Logical & Physical architecture, various interfaces/systems, test cases and test data characteristics. Re-engineering activities will reduce the risk and effort involved in migrating the applications from the existing MYCA Platform to NGI ",
+
+"High-level and low-level system design, planning, estimation and implementation.",
+
+"Responsible for developing Use case diagrams, Class diagrams, Sequence diagrams and process flow diagrams for the modules using UML and Rational Rose.",
+
+"Involved in Preparation of the technical design documents and involved in identifying and implementation of different J2EE design patterns like Service Locator, Business Delegate, DAO",
+
+"Description: Customer Service Tool (CST) is a Call Centre application for American Express. It helps the Customer Service Representatives to reset the user passwords and help them to perform actions on behalf of the users. CST talks with twenty different American Express applications. I was mainly involved in the changes to the existing flows. Other than this, I was also involved in the team that was responsible for the analysis and the design of the WAS5.0 migration and the architectural redesign. ",
+
+"Creating server-side JAVA architecture using Servlets.",
+
+"Involved in the deployment of EJB’s.",
+
+"Developed and deployed EJB’s, Servlets and JSPs on WAS4 and JES.",
+
+"Involved in installation and configuration of WAS and JES on Windows platform.",
+
+"Developed dynamic content of presentation layer using JSP.",
+
+"Building Software modules using Ant.",
+
+"Developed Sequence diagrams and Class diagrams using UML.",
+
+"Involved with the QA Tester in developing Test Scenarios and Test Cases and their documentation.",
+
+"Involved in fixing the issue related to the Production.",
+
+"Description: The Customer Identity Security Service system provides reliable identification services to the Customer Support Canters. The system also enables applications in American Express to can access common identification information for a user in a standardized manner ",
+
+"My work responsibilities included design and development of the web tier components and talking to the EJB services, development of batch programs to maintain and synchronize the databases. Apart from technical responsibilities, soft skills were required for project management, versioning, managing timelines and doing causal analysis and consolidation of defects.",
+
+"Created server-side JAVA architecture using Java Servlets . ",
+
+"Involved in the deployment of EJB’s.",
+
+"Developed architecture to generate dynamic Server side pages.",
+
+"Developed and deployed EJB’s, Servlets and JSP’s on WAS4 Server.",
+
+"Developed the user interface for administration activities",
+
+"Involved in developing the core business logic using Session & Entity Beans and deploying them in WAS",
+
+"Worked on the full life cycle of the project starting from user requirements.",
+
+"Developed Sequence diagrams and Class diagrams using UML.",
+
+"Developed JMS Session bean, which is a wrapper over the MQ Series Queue interface to handle the Matching and Routing queues.",
+
+"Assisted the QA Tester in developing Test Scenarios and Test Cases and their documentation.",
+
+"Experienced in web application development using WSAD.",
+
+"Interfaces were developed to the database with the help of JDBC drivers for DB2",
+
+"Fixed the issue related to the Production",
+
+"Description:  Single Sign on (SSO) Utility provides Authentication, Authorization along with Seamless user flow among various participating Client web sites in the Internet, the Intranet & Cross Domain (Interoperability) world for American Express ",
+
+"The Single Sign-On (SSO) utility provides security to web based applications. In doing so, it enables the use of a single User ID for a customer to access all participating American Express web sites. In addition, once a customer has signed on, he/she will not be required to re-login as he/she moves across from one application to another. It means the user will be able to access all secured American Express web sites just by logging into one secure American Express web site ",
+
+"Responsible for development of various GUI Screens using HTML, DHTML, JavaScript and JSP.",
+
+"Responsible for Coding using JSP, Java Servlets and XML.",
+
+"Implemented Model View Control (MVC) architecture using Front Servlet Framework.",
+
+"Responsible in writing Data Access codes using JDBC and Oracle database as backend as Model component",
+
+"Responsible writing JSPs, Data Beans.",
+
+"Responsible for Testing - unit testing & integration testing",
+
+"Used Ant tool to build and deploy application on WAS."
+]
